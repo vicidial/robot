@@ -11,7 +11,7 @@
 ![1fe06ea876361876fe5b44b698a7fa2](https://user-images.githubusercontent.com/19338645/231382398-9db6123d-78a4-469f-b8c2-8ea9d8d66d52.png)
 
 ## 对话明细
-![1fe06ea876361876fe5b44b698a7fa2](https://user-images.githubusercontent.com/19338645/231382430-c33bd89d-3f1f-4a33-8516-14a08d033662.png)
+![b0f07fd318908fd8a9e5a538b9c1259](https://user-images.githubusercontent.com/19338645/231382619-cd2d1831-da42-4f08-a413-c896fa500000.png)
 
 
 ## 阿里云智能对话机器人 电话号码收集配置:
