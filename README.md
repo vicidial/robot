@@ -2,7 +2,7 @@
 
 
 
-1,vicidial sip 对接语音机器人产品架构图
+1,vicidial sip 对接阿里云智能对话机器人(云小蜜)产品架构图
 
 
 ![89d6bf6c31bfb638009c5db0c9b0bf10](https://user-images.githubusercontent.com/19338645/231347530-614ea60b-6139-4cb4-9335-f7b984fcd945.png)
