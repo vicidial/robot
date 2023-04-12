@@ -12,8 +12,8 @@
 
 3,sip对接参数:
 
-exten => _xxxxxxxx, n, SIPAddHeader(X-AliyunIVR-ConversationId:${UNIQUEID})
-exten => _xxxxxxxx, n, SIPAddHeader(X-AliyunIVR-CallingNumber:${CallerID)})
+* exten => _xxxxxxxx, n, SIPAddHeader(X-AliyunIVR-ConversationId:${UNIQUEID})
+* exten => _xxxxxxxx, n, SIPAddHeader(X-AliyunIVR-CallingNumber:${CallerID)})
 
 4,机器人对接参数:
 * 电话号码收集:
